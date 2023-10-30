@@ -1,8 +1,8 @@
 # Hi 👋🏻, 
 <h1 align="center"> 💫 This is <b> Aser Hailu </b> </br> </h1>
-<p align="center">I love learning and creating new things ⚡</p>
-<p align="center">Turning imagination into reality 🚀</p>
-<p align="center">🚀 I'm Always Learning.... </p>
+<p align="center">curious about learning new technologies ⚡</p>
+<p align="center">Ideating and prototyping innovative solutions🚀</p>
+<p align="center">🚀 I'm always exploring new ideas.... </p>
 
 <p align="center"> <a href="https://portfolio-aser.vercel.app/" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a> </p>
 
