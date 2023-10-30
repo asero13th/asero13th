@@ -1,15 +1,14 @@
 # Hi 👋🏻, 
 <h1 align="center"> 💫 This is <b> Aser Hailu </b> </br> </h1>
-<p align="center">curious about learning new technologies ⚡</p>
+<p align="center">Curious about learning new technologies ⚡</p>
 <p align="center">Ideating and prototyping innovative solutions🚀</p>
 <p align="center">🚀 I'm always exploring new ideas.... </p>
 
 <p align="center"> <a href="https://portfolio-aser.vercel.app/" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a> </p>
 
 # 🌐 Socials
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aser_hailu_/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aser-hailu) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aser_hailu_/) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@aserhailu2020) 
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/aserhailu2020/) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Aser09433103) 
